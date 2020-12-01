@@ -1,0 +1,132 @@
+.customToast.Toastify__toast--error {
+    background: #ff6f6f
+}
+
+.customToast.Toastify__toast--success {
+    background: #73dc15
+}
+
+.customToast .toastCloseButton {
+    height: 30px;
+    margin-top: -4px;
+    margin-right: -5px
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 100;
+    src: url(../media/AvenirNext-UltraLight-11.625949dc.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: italic;
+    font-weight: 100;
+    src: url(../media/AvenirNext-UltraLightItalic-12.a13ce600.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../media/AvenirNext-Regular-08.4d8fdeb2.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: italic;
+    font-weight: 400;
+    src: url(../media/AvenirNext-Italic-05.c8675067.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 500;
+    src: url(../media/AvenirNext-Medium-06.597381f7.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: italic;
+    font-weight: 500;
+    src: url(../media/AvenirNext-MediumItalic-07.d4c8d553.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 700;
+    src: url(../media/AvenirNext-DemiBold-03.2538a3f0.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: italic;
+    font-weight: 700;
+    src: url(../media/AvenirNext-DemiBoldItalic-04.7b025dfe.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 900;
+    src: url(../media/AvenirNext-Bold-01.61887e1e.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next Heavy";
+    font-style: normal;
+    font-weight: 900;
+    src: url(../media/AvenirNext-Heavy-09.e3bd2d7d.ttf)
+}
+
+@font-face {
+    font-family: "Avenir Next";
+    font-style: italic;
+    font-weight: 900;
+    src: url(../media/AvenirNext-BoldItalic-02.5a76eac5.ttf)
+}
+
+@font-face {
+    font-family: "BourbonGrotesque";
+    src: url(../media/BourbonGrotesque-Regular.fec17950.otf)
+}
+
+@font-face {
+    font-family: "PROMINDER";
+    src: url(../media/PROMINDER_Regular.c42ab454.otf)
+}
+
+@font-face {
+    font-family: "Phosphate";
+    src: url(../media/Phosphate_Pro_Solid.dd799bb1.ttf)
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    font-style: normal;
+    src: url(../media/BebasNeue_Regular.463e6ede.otf)
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    font-style: normal;
+    src: url(../media/BebasNeue_Bold.524d720f.otf);
+    font-weight: 900, bold
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    src: url(../media/Poppins-Black.0573b923.ttf);
+    font-weight: 900
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    src: url(../media/Poppins-Bold.a3e0b5f4.ttf);
+    font-weight: 700, bold
+}

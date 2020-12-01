@@ -1,0 +1,16 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "play_store_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoUB/KBkfgHpEfXlWdZQW/hYUNlimoPj51riiD83WKE1Olh5ID8DEykdya8QatcM2n7wdJ0e5lifjPMpkHxdgN0tnGAWufVTbK6JgDoxQYB8Vn9xM0ZDKxFGcAb3PFQrXc1belHAvKchD/w+S6Zddk0tvRp3JfP8Q59wHFfCo4rgBkNkUADbC4Ts0nrcXANnHTLyeKT+QPznZJbV+Bt7a+/WqQ4Meq+CW7LuELVQs2AEha7tSaSBVkVAAsTZQi8x+QTJuyHa0H1Kw/v89sE0M4xmW9onSKZ5FhWKQ/jK3ockxMpDd8HrHKasqJZoIwYQDw4Hh/XML5hOKHTE+McnilwIDAQAB"
+}
